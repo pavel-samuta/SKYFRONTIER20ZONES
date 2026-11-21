@@ -1,0 +1,1 @@
+{"name":"sky-frontier-20-zones","version":"0.1.0","private":true,"description":"Dependency-free multiplayer browser aviation prototype","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
